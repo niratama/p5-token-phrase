@@ -1,6 +1,6 @@
 # NAME
 
-Text::TokenPhrase - It's new $module
+Text::TokenPhrase - Simple module that generates unique phrases
 
 # SYNOPSIS
 
@@ -8,7 +8,7 @@ Text::TokenPhrase - It's new $module
 
 # DESCRIPTION
 
-Text::TokenPhrase is ...
+Text::TokenPhrase is Perl port of [TokenPhrase](https://github.com/genericsteele/token\_phrase).
 
 # LICENSE
 
@@ -20,3 +20,7 @@ it under the same terms as Perl itself.
 # AUTHOR
 
 Kenichi Kobayashi <niratama3@gmail.com>
+
+# SEE ALSO
+
+[TokenPhrase](https://github.com/genericsteele/token\_phrase)

@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Simple module that generates unique phrases",
    "author" : [
       "Kenichi Kobayashi <niratama3@gmail.com>"
    ],
@@ -43,6 +43,9 @@
       },
       "runtime" : {
          "requires" : {
+            "Class::Accessor::Fast" : "0.18",
+            "List::MoreUtils" : "0.10",
+            "List::Util" : "1.16",
             "perl" : "5.008005"
          }
       },
